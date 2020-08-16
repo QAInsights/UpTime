@@ -1,19 +1,9 @@
-owner: koj-co
-repo: upptime
+owner: qainsights
+repo: UpTime
 user-agent: KojBot
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: QAInsights
+    url: https://qainsights.com
 assignees:
   - AnandChowdhary
 status-website:
