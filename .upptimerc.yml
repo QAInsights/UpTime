@@ -1,6 +1,6 @@
 owner: qainsights
 repo: UpTime
-user-agent: KojBot
+user-agent: qainsights
 sites:
   - name: QAInsights
     url: https://qainsights.com
