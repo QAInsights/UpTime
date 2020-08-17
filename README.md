@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟩 All systems operational**  **🟨 Partial outage**  **🟨 Partial outage**  **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**  **🟩 All systems operational**  **🟨 Partial outage**  **🟨 Partial outage**  **🟨 Partial outage**
 
 ## ⭐ How it works
 
