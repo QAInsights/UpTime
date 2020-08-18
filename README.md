@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟩 All systems operational**  **🟩 All systems operational**  **🟨 Partial outage**  **🟨 Partial outage**  **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**  **🟩 All systems operational**  **🟩 All systems operational**  **🟨 Partial outage**  **🟨 Partial outage**  **🟨 Partial outage**
 
 ## ⭐ How it works
 
@@ -37,7 +37,7 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [QAInsights](https://qainsights.com) | 🟩 Up | [qa-insights.yml](https://github.com/qainsights/UpTime/commits/master/history/qa-insights.yml) | <img alt="Response time graph" src="./graphs/qa-insights.png" height="20"> 386ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fqainsights%2FUpTime%2Fmaster%2Fapi%2Fqa-insights%2Fuptime.json)
+| [QAInsights](https://qainsights.com) | 🟩 Up | [qa-insights.yml](https://github.com/qainsights/UpTime/commits/master/history/qa-insights.yml) | <img alt="Response time graph" src="./graphs/qa-insights.png" height="20"> 410ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fqainsights%2FUpTime%2Fmaster%2Fapi%2Fqa-insights%2Fuptime.json)
 
 <!--end: status pages-->
 
