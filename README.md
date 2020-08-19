@@ -2,8 +2,6 @@
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
-Live status: <!--live status--> **🟩 All systems operational**  **🟩 All systems operational**  **🟩 All systems operational**  **🟩 All systems operational**  **🟨 Partial outage**  **🟨 Partial outage**  **🟨 Partial outage**
-
 ## [📈 Status](https://upptime.js.org)
 
 _This section is updated automatically when the status of any site changes._
