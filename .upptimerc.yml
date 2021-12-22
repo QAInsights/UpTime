@@ -12,3 +12,9 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+  
